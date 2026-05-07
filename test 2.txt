@@ -1,0 +1,10 @@
+Company Sales Report 2025
+
+The performance across regions for the year 2025 is summarized below.
+
+North Region recorded sales of 12000 in Q1, 15000 in Q2, 17000 in Q3, and 20000 in Q4.
+South Region achieved 10000 in Q1, 13000 in Q2, 16000 in Q3, and 18000 in Q4.
+East Region showed steady growth with 9000 in Q1, 11000 in Q2, 14000 in Q3, and 16500 in Q4.
+West Region reported 8000 in Q1, 9500 in Q2, 12000 in Q3, and 15000 in Q4.
+
+All values are in USD and represent finalized audited figures.

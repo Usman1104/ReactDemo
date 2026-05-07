@@ -1,0 +1,54 @@
+{
+  "reportType": "sales_summary",
+  "meta": {
+    "title": "Company Sales Report 2025",
+    "generatedBy": "finance-system-v3",
+    "currency": "USD",
+    "isFinal": true
+  },
+  "content": {
+    "description": "The performance across regions for the year 2025 is summarized below.",
+    "dataBlocks": [
+      {
+        "region": "North Region",
+        "values": {
+          "Q1": 12000,
+          "Q2": 15000,
+          "Q3": 17000,
+          "Q4": 20000
+        }
+      },
+      {
+        "region": "South Region",
+        "values": {
+          "Q1": 10000,
+          "Q2": 13000,
+          "Q3": 16000,
+          "Q4": 18000
+        }
+      },
+      {
+        "region": "East Region",
+        "values": {
+          "Q1": 9000,
+          "Q2": 11000,
+          "Q3": 14000,
+          "Q4": 16500
+        }
+      },
+      {
+        "region": "West Region",
+        "values": {
+          "Q1": 8000,
+          "Q2": 9500,
+          "Q3": 12000,
+          "Q4": 15000
+        }
+      }
+    ]
+  },
+  "footer": {
+    "note": "All values are audited financial figures",
+    "unit": "USD"
+  }
+}
